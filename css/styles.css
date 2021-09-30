@@ -1,0 +1,30 @@
+body {
+
+    margin: 0; 
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+
+
+#data {
+     margin-left: 50px; 
+     margin-top: 50px;
+    /*margin-right: 100px;
+    margin-top: 100px; */
+    position: absolute;   
+    
+}
+
+
+.collapse navbar-collapse {
+
+  background-color: red;
+}
